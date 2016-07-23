@@ -1,0 +1,1 @@
+Spielt regelmäßig einen Ton (z.B. jede Stunde) und erinnert an die vergehende Zeit.

@@ -1,0 +1,35 @@
+Spielt stündlich einen Ton (stündlicher Glockenschlag) und vieles mehr! 
+
+Sie kann als Kuckucksuhr oder Achtsamkeitsglocke genutzt werden - immer, wenn sie erklingt, gibt sie dir die Chance zu überlegen, wie spät es ist oder was du gerade tust. 
+
+Standardmäßig spielt sie jede Stunde einen kurzen Ton, unabhängig von Zeit und Wochentag. Sie kann nicht nur stündlich, sondern auch in kürzeren Abständen wie 30 oder 15 Minuten einen Ton spielen. Das Zeitsignal kann zum Beispiel auf bestimmte Stunden am Tag begrenzt werden, siehe unten für eine vollständige Liste der Funktionen. 
+
+Liste der Funktionen:
+- einen Ton in regelmäßigen Abständen abspielen (z.B. jede Stunde)
+- verschiedene Sounds zum Auswählen (z.B. Casio Uhr Piepser, Gong, Schiffsglocke, Kuckuck)
+- Vibration aktivieren, während Sound gespielt wird (wähle aus mehreren Arten)
+- ruhige Stunden (z.B. 22:00 bis 6:00)
+- ruhige Tage (z.B. Samstag und Sonntag)
+- anzeigen, wann der nächste Ton ist
+- Bildschirm aktivieren wenn Sound gespielt wird
+- Audiokanal wählen (Klingeln, Alarm, Medien, Benachrichtigung) - wähle Klingeln, damit sich der Ton nach den Klingeltoneinstellungen richtet (wähle dies, wenn du keinen Ton im Lautlos Modus möchtest)
+- geringere Lautstärke des Tons als der gewählte Audiokanal (durch einen Schieberegler)
+- die Lautstärke des gewählten Audiokanals innerhalb der App mit den Lautstärketasten ändern 
+- läuft auch nach Neustart oder App-Update weiter
+- Option zum automatischen Deaktivieren während Musik auf dem Gerät gespielt wird
+- Ton während Anruf deaktivieren
+- keine Werbung 
+
+Vorsicht bei Energiesparmodus oder -apps: 
+Bitte beachte, dass wenn die App unerwartet nicht mehr läuft, dies durch eine Funktion des Geräts oder eine App, die Apps anhält, um die Akkulaufzeit zu verlängern (Energiesparen, Akkuoptimierung, eco, Task Killer usw.) verursacht sein könnte. Ignoriere BlipBlip  in einem solchen Fall bitte in der entsprechenden App, damit BlipBlip korrekt arbeitet.
+
+Hinweis für Samsung Nutzer: 
+Auf manchen Geräten wird der Alarm Modus in den erweiterten Einstellungen aktiviert, um einen Fehler zu beheben, bei dem der Ton einige Minuten zu spät abgespielt wird. Er sollte in Version 1.0.9 oder neuer nach dem ersten verzögerten Ton aktiviert werden. 
+Anstelle des Alarm Modus kannst du es auch mit "Bildschirm an bei Ton" versuchen. 
+
+Falls du irgendein Problem hast, kontaktierte uns bitte, indem du "Problem melden" in der App nutzt. Beschreibe dein Problem und sende die Nachricht. (Ich werde Protokolle von der App empfangen)
+Wenn es etwas in der App gibt, was du gerne geändert haben möchtest, kontaktiere uns bitte via Email an support@nadolski.it und ich werde mein Bestes geben, zu helfen! 
+Alle Vorschläge sind willkommen! 
+
+Du kannst auch der BlipBlip Community auf Google+ beitreten um mehr über die App zu erfahren, über Funktionen zu diskutieren oder dem Betaprogramm beizutreten:
+https://plus.google.com/communities/117127258044742928311
