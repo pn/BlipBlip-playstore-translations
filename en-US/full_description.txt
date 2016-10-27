@@ -18,6 +18,9 @@ List of features:
 - continue working after reboot or app update
 - option to disable while music is playing on device
 - disable notification during phone call
+- change displayed text in a notification
+- Added Reliability settings menu with additional option "Foreground service"
+- optionally vibrate on Android Wear
 - no ads
 
 Battery optimization modes or apps warning.
@@ -27,7 +30,9 @@ Note to Samsung users:
 On some devices Alarm mode will be enabled in Advanced Settings to fix issue with notifications being late by several minutes. It should be enabled after first delayed notification on version 1.0.9 or newer of the app.
 Instead of Alarm mode you can also try to use "Light up screen on notification".
 
-If you have any problem please contact us by using "Report problem" from the app, describe your problem and send  it (I will receive logs from the app).
+If you have problem with sound not always playing, please try beta version.
+
+If you still have any problem please contact us by using "Report problem" from the app, describe your problem and send  it (I will receive logs from the app).
 If there is something you would like to be changed in the app, please contact us by email support@nadolski.it and I will do my best to help! Any suggestions are welcome.
 
 You can also join BlipBlip community on Google+ to learn more about the app, discuss app features or join beta program:
