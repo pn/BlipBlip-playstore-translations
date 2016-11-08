@@ -1,8 +1,10 @@
 Plays sound every hour (hourly chime) and much more!
 
-It can be used as a cuckoo clock or mindfulness bell - every time it rings it gives you chance to think what time is it or what you are currently doing.
+It can be used as a cuckoo clock or mindfulness bell - every time it rings it gives you chance to think what time it is or what you are currently doing.
 
 By default it plays short sound every hour regardless of day or time of day. It can not only beep hourly but also on shorter periods like 30 or 15 minutes. The time signal can be configured for example to limit chime time to specific hours or days, see below for full list of options.
+
+You can use it also as reminder (e.g. to drink more water or take break from computer screen) by customizing text in the notification.
 
 List of features:
 - play sound in regular intervals (e.g. every hour)
@@ -19,7 +21,6 @@ List of features:
 - option to disable while music is playing on device
 - disable notification during phone call
 - change displayed text in a notification
-- Added Reliability settings menu with additional option "Foreground service"
 - optionally vibrate on Android Wear
 - no ads
 
@@ -27,13 +28,11 @@ Battery optimization modes or apps warning.
 Please note that if the app stops working unexpectedly it may be caused by some phone function or app which stops apps to increase battery life (power saving, battery optimization, eco, task killers, etc.). In such case, please disable it for BlipBlip for the app to function correctly.
 
 Note to Samsung users:
-On some devices Alarm mode will be enabled in Advanced Settings to fix issue with notifications being late by several minutes. It should be enabled after first delayed notification on version 1.0.9 or newer of the app.
+On some devices Alarm mode needs to be enabled in Reliability Settings to fix issue with notifications being late by several minutes (in which case they are ignored).
 Instead of Alarm mode you can also try to use "Light up screen on notification".
 
-If you have problem with sound not always playing, please try beta version.
-
-If you still have any problem please contact us by using "Report problem" from the app, describe your problem and send  it (I will receive logs from the app).
-If there is something you would like to be changed in the app, please contact us by email support@nadolski.it and I will do my best to help! Any suggestions are welcome.
+If you have some problem please contact us by using "Report problem" from the app, describe your problem and send to forward logs and configuration from your device.
+If there is something you would like to be changed in the app, please contact us by email support@nadolski.it and we will do our best to help! Any suggestions are welcome.
 
 You can also join BlipBlip community on Google+ to learn more about the app, discuss app features or join beta program:
 https://plus.google.com/communities/117127258044742928311
