@@ -1,4 +1,4 @@
-Plays sound every hour (hourly chime) and much more!
+Simple time reminder, plays sounds regularly (hourly chime), but can do much more!.
 
 It can be used as a cuckoo clock or mindfulness bell - every time it rings it gives you chance to think what time it is or what you are currently doing.
 
