@@ -18,7 +18,7 @@ List of features:
 - lower notification sound volume compared to chosen audio stream (using slider)
 - change audio stream sound volume using hardware volume keys in the app
 - continue working after reboot or app update
-- option to disable while music is playing on device
+- option to disable while music, video or game is playing on device
 - disable notification during phone call
 - change displayed text in a notification
 - optionally vibrate on Android Wear
@@ -29,7 +29,7 @@ Please note that if the app stops working unexpectedly it may be caused by some 
 
 Note to Samsung users:
 On some devices Alarm mode needs to be enabled in Reliability Settings to fix issue with notifications being late by several minutes (in which case they are ignored).
-Instead of Alarm mode you can also try to use "Light up screen on notification".
+Instead of Alarm mode you can also try to use "Light up screen on notification" option.
 
 If you have some problem please contact us by using "Report problem" from the app, describe your problem and send to forward logs and configuration from your device.
 If there is something you would like to be changed in the app, please contact us by email support@nadolski.it and we will do our best to help! Any suggestions are welcome.
