@@ -23,7 +23,10 @@ Lista funkcji:
 - opcja wyłączenia powiadomienia podczas rozmowy telefonicznej
 - zmień wyświetlany tekst w powiadomieniu
 - opcjonalnie wibruj na zegarku Android Wear
+- dokładne powiadomienia dzięki opcji "Zapobiegaj opóźnieniom" w Ustawieniach niezawodności (używa więcej baterii - czytaj więcj poniżej)
 - brak reklam
+
+Ostatnie wersje aplikacji zawierają funkcję "Zapobiegaj opóźnieniom" włączoną domyślnie, która aktywnie przeciwdziała opóźnieniom powiadomień, które mogą być nawet kilkuminutowe na niektórych urządzeniach. Niestety wiąże się to ze zwiększonym kosztem użycia baterii. Największe zużycie jest podczas pierwszych dni używania aplikacji, potem zużycie będzie niższe. Jeśli nie chcesz używać tej funkcji, ale chcesz mieć nadal dokładne powiadomienia możesz spróbować włączyć opcję "Włącz ekran podczas powiadomienia" lub "Tryb alarmu" w Ustawieniach niezawodności (nie działają one na wszystkich urządzeniach, zazwyczaj działają dla Samsunga).
 
 *** Ostrzeżenie o trybach oszczędzania energii ***
 Proszę zwrócić uwagę, że jeśli aplikacja przestaje działać, to może być to spowodowane jakąś funkcją telefonu lub aplikacji, która zatrzymuje aplikacje w tle by wydłużyć czas pracy na baterii (tryby oszczędzania baterii, stamina, eco, task killery, itp.). W takim przypadku proszę wyłączyć je, żeby aplikacja działała poprawnie.

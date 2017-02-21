@@ -23,7 +23,10 @@ List of features:
 - disable notification during phone call
 - change displayed text in a notification
 - optionally vibrate on Android Wear
+- accurate notifications with "Prevent delays" option in Reliability settings (uses more battery - read more below)
 - no ads
+
+Recent versions of the app contain "Prevent delays" option enabled by default which actively prevents notification delays which may be up to several minutes on some devices. Unfortunately this comes at the cost of increased battery usage. Battery usage is largest initially during first few days, then it should be lower. If you don't want to use this feature and still have accurate notifications you can try enabling "Light up screen on notification" option or "Alarm mode" in Reliability settings (these do not work on all devices, usually they work for Samsung).
 
 Battery optimization modes or apps warning.
 Please note that if the app stops working unexpectedly it may be caused by some phone function or app which stops apps to increase battery life (power saving, battery optimization, eco, task killers, etc.). In such case, please disable it for BlipBlip for the app to function correctly.
