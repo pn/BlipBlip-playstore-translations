@@ -14,6 +14,7 @@ List of features:
 - quiet days (e.g. Saturday and Sunday)
 - display when upcoming notification will occur
 - light up screen when playing sound
+- pause or silence background sounds or music when app plays (configurable in Advanced settings)
 - choose audio stream (ring, alarm, media, notification) - choose ring for sound to follow phone ringtone (choose this if you don't want sound in silent mode)
 - lower notification sound volume compared to chosen audio stream (using slider)
 - change audio stream sound volume using hardware volume keys in the app
@@ -27,12 +28,14 @@ List of features:
 Battery optimization modes or apps warning.
 Please note that if the app stops working unexpectedly it may be caused by some phone function or app which stops apps to increase battery life (power saving, battery optimization, eco, task killers, etc.). In such case, please disable it for BlipBlip for the app to function correctly.
 
-Note to Samsung users:
-On some devices Alarm mode needs to be enabled in Reliability Settings to fix issue with notifications being late by several minutes (in which case they are ignored).
-Instead of Alarm mode you can also try to use "Light up screen on notification" option.
-
 If you have some problem please contact us by using "Report problem" from the app, describe your problem and send to forward logs and configuration from your device.
+
 If there is something you would like to be changed in the app, please contact us by email support@nadolski.it and we will do our best to help! Any suggestions are welcome.
+
+Follow us on
+Facebook http://bit.ly/2k2R9Nz
+Twitter http://bit.ly/2jpc4Zj
+Google+ http://bit.ly/2jzUGEF
 
 You can also join BlipBlip community on Google+ to learn more about the app, discuss app features or join beta program:
 https://plus.google.com/communities/117127258044742928311

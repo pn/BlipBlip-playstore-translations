@@ -14,6 +14,7 @@ Lista funkcji:
 - ciche dni (np. sobota i niedziela)
 - wyświetla czas następnego powiadomienia
 - włącz ekran podczas powiadomienia
+- pauza lub ściszenie dźwięków lub muzyki w tle kiedy aplikacja odtwarza dźwięk (konfigurowalne w Ustawieniach zaawansowanych)
 - wybierz strumień dźwięku/głośności (dzwonek telefonu, budzik, muzyka, powiadomienia) - wybierz Dzwonek telefonu, żeby dźwięk był wyciszany razem ze telefonem
 - obniż głośność powiadomienia w porównaniu do wybranego strumienia dźwięku (używając suwaka)
 - zmień głośność strumienia dźwięku za pomocą przycisków głośności
@@ -27,11 +28,14 @@ Lista funkcji:
 *** Ostrzeżenie o trybach oszczędzania energii ***
 Proszę zwrócić uwagę, że jeśli aplikacja przestaje działać, to może być to spowodowane jakąś funkcją telefonu lub aplikacji, która zatrzymuje aplikacje w tle by wydłużyć czas pracy na baterii (tryby oszczędzania baterii, stamina, eco, task killery, itp.). W takim przypadku proszę wyłączyć je, żeby aplikacja działała poprawnie.
 
-*** Wiadomość dla użytkowników telefonów Samsung ***
-Na niektórych urządzeniach trzeba włączyć Tryb alarmu w Ustawieniach niezawodności, żeby naprawić problem ze spóźnionymi powiadomieniami o kilka minut (nie są wtedy odtwarzane). Zamiast Trybu alarmu można jeszcze użyć opcji "Rozświetl ekran podczas powiadomienia".
-
 Jeśli masz jakiś problem z aplikacją proszę skontaktuj się z nami za pomocą opcji "Zgłoś problem" z aplikacji, opisz go i wyślij żebyśmy otrzymali logi z Twojego urządzenia.
 Jeśli jest coś co chciałbyś, żeby zostało zmienione w aplikacji, możesz użyć jednej z opcji kontaktu w aplikacji lub napisać email na adres support@nadolski.it, a my zrobimy co w naszej mocy, żeby Ci pomóc! Wszystkie informacje zwrotne są bardzo mile widziane.
+
+
+Dołącz do nas na:
+Facebook http://bit.ly/2k2R9Nz
+Twitter http://bit.ly/2jpc4Zj
+Google+ http://bit.ly/2jzUGEF
 
 Możesz również dołączyć do społeczności BlipBlip na Google+, żeby dowiedzieć się więcej co dzieje się nowego w aplikacji lub podyskutować o nowych funkcjach:
 https://plus.google.com/communities/117127258044742928311
