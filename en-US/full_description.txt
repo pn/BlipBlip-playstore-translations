@@ -6,14 +6,26 @@ By default it plays short sound every hour regardless of day or time of day. It 
 
 You can use it also as reminder (e.g. to drink more water or take break from computer screen) by customizing text in the notification.
 
-List of features:
-- play sound in regular intervals (e.g. every hour)
+Premium features (BlipBlip Plus):
+- Multiple notifications
+- User added sounds
+- Say time (speaking clock) or any text (text to speech)
+- Custom time interval
+- Strike the hour
+Additional sounds in the app are a separate premium option.
+
+Other features:
+- play sound in regular intervals (every hour or every 30, 20, 15, 10, 5 or 1 minute - other periods are premium feature)
+- choose dates or days of week or specific times when the notification should be played
+- flexible silent time (define multiple times using date, time and day of week)
+- operating modes (change app behavior in Do Not Disturb, vibrate mode, etc.)
 - several sounds to choose (e.g. Casio watch beep, gong, ship's bell, cuckoo)
-- enable vibration during playing sound (choose from several vibrations)
-- quiet hours (e.g. from 22:00 to 6:00)
-- quiet days (e.g. Saturday and Sunday)
+- vibrate on phone and on smartwatch (choose from several vibrations or define your own pattern)
 - display when upcoming notification will occur
 - light up screen when playing sound
+- repeat sound selected number of times
+- show text in a pop-up
+- show and edit seconds
 - pause or silence background sounds or music when app plays (configurable in Advanced settings)
 - choose audio stream (ring, alarm, media, notification) - choose ring for sound to follow phone ringtone (choose this if you don't want sound in silent mode)
 - lower notification sound volume compared to chosen audio stream (using slider)
@@ -22,23 +34,22 @@ List of features:
 - option to disable while music, video or game is playing on device
 - disable notification during phone call
 - change displayed text in a notification
-- optionally vibrate on Android Wear
-- accurate notifications with "Prevent delays" option in Reliability settings (uses more battery - read more below)
+- accurate notifications with "Prevent delays" option in Reliability settings (uses more battery, may not work on all devices)
+- protected privacy
 - no ads
 
-Recent versions of the app contain "Prevent delays" option enabled by default which actively prevents notification delays which may be up to several minutes on some devices. Unfortunately this comes at the cost of increased battery usage. Battery usage is largest initially during first few days, then it should be lower. If you don't want to use this feature and still have accurate notifications you can try enabling "Light up screen on notification" option or "Alarm mode" in Reliability settings (these do not work on all devices, usually they work for Samsung).
+This app uses Accessibility services. Using of the service is optional to help keep the app alive. App does not access any data using this service.
 
 Battery optimization modes or apps warning.
 Please note that if the app stops working unexpectedly it may be caused by some phone function or app which stops apps to increase battery life (power saving, battery optimization, eco, task killers, etc.). In such case, please disable it for BlipBlip for the app to function correctly.
 
-If you have some problem please contact us by using "Report problem" from the app, describe your problem and send to forward logs and configuration from your device.
+If you have any problem please contact us by using "Report problem" from the app, describe your problem and send email (message will include logs and configuration from your device).
 
-If there is something you would like to be changed in the app, please contact us by email support@nadolski.it and we will do our best to help! Any suggestions are welcome.
+If there is something you would like to be changed in the app, please contact us by email at support@nadolski.it and we will do our best to help! Any suggestions are welcome.
 
 Follow us on
 Facebook http://bit.ly/2k2R9Nz
 Twitter http://bit.ly/2jpc4Zj
 Google+ http://bit.ly/2jzUGEF
+Google+ Community: http://bit.ly/2k9TLtK
 
-You can also join BlipBlip community on Google+ to learn more about the app, discuss app features or join beta program:
-https://plus.google.com/communities/117127258044742928311
