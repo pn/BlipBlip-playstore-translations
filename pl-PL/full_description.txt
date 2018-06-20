@@ -6,6 +6,14 @@ Domyślnie odtwarza krótki dźwięk co godzinę niezależnie or pory dnia. Nie 
 
 Możesz używać aplikacji również jako przypomnienia (np. żeby pić regularnie wodę albo zrobić przerwę od komputera) poprzez ustawienie własnego tekstu w powiadomieniu.
 
+Funkcje płatne (BlipBlip Plus):
+- Wiele powiadomień
+- Dodawanie własnych dźwięków
+- Mówienie czasu lub dowolnego tekstu (synteza mowy)
+- Niestandardowy interwał powtarzania
+- Wybijanie godziny
+Dodatkowe dźwięki w aplikacji są osobno płatną opcją.
+
 Lista funkcji:
 - odtwarza dźwięk w regularnych odstępach (np. co godzinę)
 - kilka dźwięków do wyboru (np. dźwięk zegarka casio, gong, dzwon okrętowy, kukułka)
