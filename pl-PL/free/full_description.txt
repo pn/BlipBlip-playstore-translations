@@ -1,0 +1,56 @@
+Proste przypomnienie upływu czasu. Odtwarza dźwięki regularnie (np. co godzinę), ale może zrobić znacznie więcej!
+
+Ta darmowa wersja ma wszystkie funkcje premium i dźwięki odblokowane w zamian za oglądanie reklam. Reklamy można usunąć, kupując subskrypcję.
+
+Aplikacja może być używana jako zegar z kukułką lub dzwonek świadomości - za każdym razem, gdy dzwoni, daje ci szansę zastanowienia się, która jest godzina lub co aktualnie robisz.
+
+Domyślnie odtwarza krótki dźwięk co pół godziny, niezależnie od dnia i pory dnia. Może nie tylko emitować sygnał dźwiękowy co godzinę, ale także w dowolnym określonym okresie. Sygnał czasu można skonfigurować tak, aby ograniczyć czas gongu do określonych godzin lub dni, zobacz poniżej pełną lista opcji.
+
+Możesz użyć go również jako przypomnienia, dostosowując tekst w powiadomieniu (np. Przypomnij o piciu większej ilości wody lub zrób przerwę od ekranu komputera).
+
+*** WAŻNE: Aby umożliwić prawidłowe działanie aplikacji, należy wyłączyć ustawienia oszczędzania energii. ***
+
+Funkcje:
+- Odtwarzaj dźwięk w regularnych odstępach czasu lub o określonej godzinie
+- Wiele aktywnych powiadomień z różnymi ustawieniami (np. odtwarzaj podwójny dźwięk co godzinę, odtwarzaj dźwięk pół godziny po każdej godzinie)
+- Dodaj własne dźwięki
+- Powiedz czas (mówiący zegar) lub dowolny tekst (zamiana tekstu na mowę)
+- Wybierz daty lub dni tygodnia lub określone godziny, kiedy powinno się odtwarzać powiadomienie
+- Powtórz dźwięk wybraną liczbę razy
+- Wibijaj godziny (np. powtórz dźwięk 3 razy o godzinie 3)
+- Elastyczny cichy czas (zdefiniuj wiele czasów, używając daty, godziny i dnia tygodnia, aby wyciszyć aplikację)
+- Tryby działania (zmiana zachowania aplikacji w trybie Nie przeszkadzać, trybie wibracji itp.)
+- Wiele dźwięków do wyboru (np. Dźwięk dzwonka Casio, gong, dzwonek statku, kukułka)
+- Wibracja na telefonie i podłączonym urządzeniu (np. Smartwatch, opaska)
+- Zdefiniuj swój własny wzór wibracji lub użyj istniejącego
+- Wyświetl kiedy pojawi się nadchodzące powiadomienie
+- Sprawdź w jaki sposób powiadomienie będzie odtwarzane w dowolnym zaplanowanym czasie w przyszłości
+- Rozświetl ekran podczas odtwarzania dźwięku
+- Pokaż tekst w wyskakującym okienku
+- Pokaż powiadomienie z tekstami niestandardowymi (również na smartwatche)
+- Pokaż i edytuj sekundy (rzeczywista dokładność zależy od urządzenia)
+- Wstrzymywanie lub wyciszanie dźwięków w tle lub muzyki podczas odtwarzania aplikacji (konfigurowalne w ustawieniach zaawansowanych)
+- Wybierz strumień audio (dzwonek, alarm, media, powiadomienia)
+- Niższa głośność dźwięku powiadomienia w porównaniu do wybranego strumienia audio (za pomocą suwaka)
+- Zmień głośność dźwięku strumienia dźwięku za pomocą sprzętowych kluczy głośności w aplikacji
+- Opcja wyłączenia podczas odtwarzania muzyki, wideo lub gry na urządzeniu
+- Wyłącz powiadomienia podczas rozmowy telefonicznej
+- Dokładne powiadomienia z opcją "Zapobiegaj opóźnieniom" (zużywa więcej baterii)
+
+Czegoś brakuje? Powiadom nas :)
+
+Reklamy i płatności pomagają w dalszym rozwoju aplikacji. Dziękuję za wsparcie!
+
+Jeśli chcesz wersję bez reklam i z mniejszymi uprawnieniami, zainstaluj klasyczną wersję BlipBlip tutaj (jest bezpłatna, jeśli nie korzystasz z funkcji premium): https://play.google.com/store/apps/details?id=it. nadolski.blipblip
+
+Ta aplikacja korzysta z usług dostępności. Korzystanie z usługi jest opcjonalne, aby pomóc utrzymać aplikację przy życiu. Aplikacja nie uzyskuje dostępu do żadnych danych za pomocą tej usługi.
+
+Jeśli masz jakiś problem z aplikacją, skontaktuj się z nami za pomocą "Zgłoś problem" z aplikacji, opisz swój problem i wyślij e-mail.
+
+Jeśli jest coś, co chciałbyś zmienić w aplikacji, skontaktuj się z nami przez e-mail na support@nadolski.it, a my dołożymy wszelkich starań, aby pomóc! Wszelkie sugestie są mile widziane.
+
+Śledź nas na
+Facebook http://bit.ly/2k2R9Nz
+Twitter http://bit.ly/2jpc4Zj
+Google+ http://bit.ly/2jzUGEF
+Społeczność Google+: http://bit.ly/2k9TLtK

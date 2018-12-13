@@ -1,0 +1,56 @@
+Simple reminder of passing time. Plays sounds regularly (e.g. every hour) but can do much more!
+
+This free version has all premium features and sounds unlocked in exchange for watching ads. Ads can be removed by purchasing subscription.
+
+App can be used as a cuckoo clock or mindfulness bell - every time it rings it gives you chance to think what time it is or what you are currently doing.
+
+By default it plays short sound every half hour regardless of day or time of day. It can not only beep hourly but also on any period specified. The time signal can be configured to limit chime time to specific hours or days, see below for full list of options.
+
+You can use it also as reminder by customizing text in the notification (e.g. remind to drink more water or take break from computer screen).
+
+*** IMPORTANT: To allow the app to fuction correctly please disable power saving settings. ***
+
+Features:
+- Play sound in regular intervals or at specified time
+- Multiple active notifications with different settings (e.g. plays double sound every hour, plays sound once half an hour after each hour)
+- Add your own sounds
+- Say time (speaking clock) or any text (text to speech)
+- Choose dates or days of week or specific times when the notification should be played
+- Repeat sound selected number of times
+- Strike the hours (eg. repeat sound 3 times at 3 o'clock)
+- Flexible silent time (define multiple times using date, time and day of week to silence the app)
+- Operating modes (change app behavior in Do Not Disturb, vibrate mode, etc.)
+- Many sounds to choose (e.g. Casio watch beep, gong, ship's bell, cuckoo)
+- Vibrate on phone and connected device (e.g. smartwatch, wristband)
+- Define your own vibration pattern or use existing one
+- Display when upcoming notification will occur
+- Check how notificaiton would play at any scheduled time in the future
+- Light up screen when playing sound
+- Show text in a pop-up
+- Show notification with custom texts (also on smartwatches)
+- Show and edit seconds (actual accuracy depends on device)
+- Pause or silence background sounds or music when app plays (configurable in Advanced settings)
+- Choose audio stream (ring, alarm, media, notification)
+- Lower notification sound volume compared to chosen audio stream (using slider)
+- Change audio stream sound volume using hardware volume keys in the app
+- Option to disable while music, video or game is playing on device
+- Disable notification during phone call
+- Accurate notifications with "Prevent delays" option (uses more battery)
+
+Anything missing? Let us know :)
+
+Advertisements and earnings help support further development of the app. Thank you for all the support!
+
+If you would like version without ads and with fewer permissions then install classic BlipBlip here (it is free if you don't use premium features): https://play.google.com/store/apps/details?id=it.nadolski.blipblip
+
+This app uses Accessibility services. Using of the service is optional to help keep the app alive. App does not access any data using this service.
+
+If you have any problem with the app please contact us by using "Report problem" from the app, describe your problem and send email.
+
+If there is something you would like to be changed in the app, please contact us by email at support@nadolski.it and we will do our best to help! Any suggestions are welcome.
+
+Follow us on
+Facebook http://bit.ly/2k2R9Nz
+Twitter http://bit.ly/2jpc4Zj
+Google+ http://bit.ly/2jzUGEF
+Google+ Community: http://bit.ly/2k9TLtK
